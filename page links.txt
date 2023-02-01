@@ -1,0 +1,20 @@
+Marriyan_Restaurant_Payment_Page
+
+https://www.instagram.com/kumar_wayadande/
+
+https://www.facebook.com/Wayadande_Kumar
+
+
+MR_01 : https://payments-test.cashfree.com/forms/Mariyaan_Restaurant_Payment_Page - vada pav
+MR_01 : https://payments-test.cashfree.com/forms/Marriyan_Restaurant_Payment_Page - pattice
+MR_03 : https://payments-test.cashfree.com/forms/Marriyan_Restaurant_Payment_Page1 - poha
+MR_04 : https://payments-test.cashfree.com/forms/Mariyaan_Restaurant_Payment_Page2 - chai
+MR_05 : https://payments-test.cashfree.com/forms/Mariyaan_Restaurant_Payment_Page3 - Masala Dosa
+MR_06 : https://payments-test.cashfree.com/forms/Mariyaan_Restaurant_Payment_Page4 - Samosa
+
+MR_07 : https://payments-test.cashfree.com/forms/Mariyaan_Restaurant_Payment_Page5 - Maggie Roll
+MR_08 : https://payments-test.cashfree.com/forms/Mariyaan_Restaurant_Payment_Page6 - Idli Sambar
+MR_09 : https://payments-test.cashfree.com/forms/Mariyaan_Restaurant_Payment_Page7 - misal pav
+MR_10 : https://payments-test.cashfree.com/forms/Mariyaan_Restaurant_Payment_Page8 - medu vada
+MR_11 : https://payments-test.cashfree.com/forms/Mariyaan_Restaurant_Payment_Page9 - Pinapple Shira
+MR_12 : https://payments-test.cashfree.com/forms/Mariyaan_Restaurant_Payment_Page10 - Dahi Vada
